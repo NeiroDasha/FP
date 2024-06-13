@@ -37,8 +37,8 @@
 Визуализация сравнения MSE: ![mse_comparison.png](mse_comparison.png)
 
 ## Важность признаков
-- Важность признаков для Random Forest: ![Random Forest_feature_importance.png](Random Forest_feature_importance.png)
-- Важность признаков для Decision Tree: ![Decision Tree_feature_importance.png](Decision Tree_feature_importance.png)
+- Важность признаков для Random Forest: [Random Forest_feature_importance.png](Random Forest_feature_importance.png)
+- Важность признаков для Decision Tree: [Decision Tree_feature_importance.png](Decision Tree_feature_importance.png)
 
 ## Поиск аномалий
 Аномалии найдены в следующих данных:
